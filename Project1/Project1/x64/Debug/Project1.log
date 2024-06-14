@@ -1,0 +1,41 @@
+﻿  Core.cpp
+C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\Core.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\Core.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Core.cpp'을(를) 컴파일하는 중)
+  
+  Grad.cpp
+C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\Grad.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Grad.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\Core.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Grad.cpp'을(를) 컴파일하는 중)
+  
+  grade.cpp
+C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\grade.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Intl.cpp
+C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\Core.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Intl.cpp'을(를) 컴파일하는 중)
+  
+  main_stdinfo.cpp
+C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\main_stdinfo.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\Student_info.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'main_stdinfo.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\Core.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'main_stdinfo.cpp'을(를) 컴파일하는 중)
+  
+  median.cpp
+C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\median.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  read_hw.cpp
+  Student_info.cpp
+C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\Student_info.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\Core.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\Grad.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Student_info.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  Project1.vcxproj -> C:\Users\ADMIN\Desktop\c++\새 폴더\Project1\x64\Debug\Project1.exe
